@@ -1,7 +1,7 @@
 {
   "dealership": "Alfa Romeo Of Vancouver Fiat Of Vancouver",
-  "generated_at": "2026-10-07T19:55:42",
-  "vehicle_count": 24,
+  "generated_at": "2026-10-07T21:36:13",
+  "vehicle_count": 23,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -13,14 +13,16 @@
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/62fa39d14b7e.html",
       "source_url": "https://www.alfaromeovancouver.com/used/2020-Alfa_Romeo-Stelvio-id14410789.html",
       "dealer_url": "https://www.alfaromeovancouver.com/used/2020-Alfa_Romeo-Stelvio-id14410789.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:56:01",
+      "last_verified": "2026-10-07T21:35:10",
       "price": 24990.0,
       "price_currency": "CAD",
       "odometer_km": 82000,
       "year": 2020,
       "make": "Alfa",
       "model": "Romeo Stelvio Ti Awdin Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Alfa Romeo Stelvio Ti Awdin Vancouver",
@@ -30,14 +32,16 @@
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/aacd03347ccf.html",
       "source_url": "https://www.alfaromeovancouver.com/used/2021-Alfa_Romeo-Stelvio-id13578457.html",
       "dealer_url": "https://www.alfaromeovancouver.com/used/2021-Alfa_Romeo-Stelvio-id13578457.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T13:50:16",
+      "last_verified": "2026-10-07T21:35:21",
       "price": 27990.0,
       "price_currency": "CAD",
       "odometer_km": 57118,
       "year": 2021,
       "make": "Alfa",
       "model": "Romeo Stelvio Ti Awdin Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Alfa Romeo Stelvio Ti Awdin Vancouver",
@@ -47,14 +51,16 @@
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/d6688789038d.html",
       "source_url": "https://www.alfaromeovancouver.com/used/2021-Alfa_Romeo-Stelvio-id14213830.html",
       "dealer_url": "https://www.alfaromeovancouver.com/used/2021-Alfa_Romeo-Stelvio-id14213830.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T13:50:25",
+      "last_verified": "2026-10-07T21:35:30",
       "price": 27990.0,
       "price_currency": "CAD",
       "odometer_km": 72000,
       "year": 2021,
       "make": "Alfa",
       "model": "Romeo Stelvio Ti Awdin Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Altima Sedan 2.5 Sr Cvtin Vancouver",
@@ -65,14 +71,16 @@
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/e8dcfe1ccbe2.html",
       "source_url": "https://www.alfaromeovancouver.com/used/2021-Nissan-Altima-id14250075.html",
       "dealer_url": "https://www.alfaromeovancouver.com/used/2021-Nissan-Altima-id14250075.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T13:50:35",
+      "last_verified": "2026-10-07T21:35:39",
       "price": 18990.0,
       "price_currency": "CAD",
       "odometer_km": 75273,
       "year": 2021,
       "make": "Nissan",
       "model": "Altima",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Altima ",
@@ -82,31 +90,15 @@
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/6b517ac386d9.html",
       "source_url": "https://www.alfaromeovancouver.com/used/2021-Nissan-Altima.html",
       "dealer_url": "https://www.alfaromeovancouver.com/used/2021-Nissan-Altima.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T13:50:43",
+      "last_verified": "2026-10-07T21:35:49",
       "price": 18990.0,
       "price_currency": "CAD",
       "year": 2021,
       "make": "Nissan",
       "model": "Altima",
-      "condition": "used"
-    },
-    {
-      "name": "2022 Porsche Cayenne Coupein Vancouver",
-      "vin": "WP1BA2AY9NDA48729",
-      "stock": "NUMBER",
-      "color": "Blue",
-      "trim": "Coupe",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/6d60dc27073e.html",
-      "source_url": "https://www.alfaromeovancouver.com/used/2022-Porsche-Cayenne-id14061102.html",
-      "dealer_url": "https://www.alfaromeovancouver.com/used/2022-Porsche-Cayenne-id14061102.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T13:50:53",
-      "price": 65990.0,
-      "price_currency": "CAD",
-      "odometer_km": 40580,
-      "year": 2022,
-      "make": "Porsche",
-      "model": "Cayenne",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Porsche Cayennein Vancouver",
@@ -116,14 +108,16 @@
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/d4cb6d9fd93b.html",
       "source_url": "https://www.alfaromeovancouver.com/used/2022-Porsche-Cayenne-id14061103.html",
       "dealer_url": "https://www.alfaromeovancouver.com/used/2022-Porsche-Cayenne-id14061103.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T13:51:01",
+      "last_verified": "2026-10-07T21:35:58",
       "price": 56990.0,
       "price_currency": "CAD",
       "odometer_km": 56500,
       "year": 2022,
       "make": "Porsche",
       "model": "Cayennein Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Porsche Cayenne ",
@@ -133,13 +127,15 @@
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/2d47f4d48cb0.html",
       "source_url": "https://www.alfaromeovancouver.com/used/2022-Porsche-Cayenne.html",
       "dealer_url": "https://www.alfaromeovancouver.com/used/2022-Porsche-Cayenne.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T13:51:10",
+      "last_verified": "2026-10-07T21:36:07",
       "price": 56990.0,
       "price_currency": "CAD",
       "year": 2022,
       "make": "Porsche",
       "model": "Cayenne",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Alfa Romeo Giulia Quadrifoglio Rwdin Vancouver",
@@ -149,14 +145,16 @@
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/37f065906c06.html",
       "source_url": "https://www.alfaromeovancouver.com/used/2023-Alfa_Romeo-Giulia-id13526074.html",
       "dealer_url": "https://www.alfaromeovancouver.com/used/2023-Alfa_Romeo-Giulia-id13526074.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T13:48:56",
+      "last_verified": "2026-10-07T21:34:03",
       "price": 76990.0,
       "price_currency": "CAD",
       "odometer_km": 19147,
       "year": 2023,
       "make": "Alfa",
       "model": "Romeo Giulia Quadrifoglio Rwdin Vancouver",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage Lx Awdin Vancouver",
@@ -167,14 +165,16 @@
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/93b862cbc1eb.html",
       "source_url": "https://www.alfaromeovancouver.com/used/2023-Kia-Sportage-id14144369.html",
       "dealer_url": "https://www.alfaromeovancouver.com/used/2023-Kia-Sportage-id14144369.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T13:49:05",
+      "last_verified": "2026-10-07T21:34:15",
       "price": 23990.0,
       "price_currency": "CAD",
       "odometer_km": 67030,
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage ",
@@ -184,13 +184,15 @@
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/652259e83ab8.html",
       "source_url": "https://www.alfaromeovancouver.com/used/2023-Kia-Sportage.html",
       "dealer_url": "https://www.alfaromeovancouver.com/used/2023-Kia-Sportage.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T13:49:15",
+      "last_verified": "2026-10-07T21:34:23",
       "price": 23990.0,
       "price_currency": "CAD",
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Atlas Cross Sport Execline 3.6l 8sp Atin Vancouver",
@@ -201,14 +203,16 @@
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/bbb75a72daa7.html",
       "source_url": "https://www.alfaromeovancouver.com/used/2023-Volkswagen-Atlas_Cross_Sport-id14144368.html",
       "dealer_url": "https://www.alfaromeovancouver.com/used/2023-Volkswagen-Atlas_Cross_Sport-id14144368.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T13:49:26",
+      "last_verified": "2026-10-07T21:34:33",
       "price": 34990.0,
       "price_currency": "CAD",
       "odometer_km": 45600,
       "year": 2023,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Atlas Cross Sport ",
@@ -218,13 +222,15 @@
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/5dfdba47957d.html",
       "source_url": "https://www.alfaromeovancouver.com/used/2023-Volkswagen-Atlas_Cross_Sport.html",
       "dealer_url": "https://www.alfaromeovancouver.com/used/2023-Volkswagen-Atlas_Cross_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T13:49:35",
+      "last_verified": "2026-10-07T21:34:43",
       "price": 34990.0,
       "price_currency": "CAD",
       "year": 2023,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Sportage Ex Premium Awdin Vancouver",
@@ -235,14 +241,16 @@
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/58ff68919e2e.html",
       "source_url": "https://www.alfaromeovancouver.com/used/2024-Kia-Sportage-id14402024.html",
       "dealer_url": "https://www.alfaromeovancouver.com/used/2024-Kia-Sportage-id14402024.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:55:43",
+      "last_verified": "2026-10-07T21:34:52",
       "price": 28990.0,
       "price_currency": "CAD",
       "odometer_km": 54413,
       "year": 2024,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Sportage ",
@@ -252,13 +260,15 @@
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/643091f82bd2.html",
       "source_url": "https://www.alfaromeovancouver.com/used/2024-Kia-Sportage.html",
       "dealer_url": "https://www.alfaromeovancouver.com/used/2024-Kia-Sportage.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:55:52",
+      "last_verified": "2026-10-07T21:34:59",
       "price": 28990.0,
       "price_currency": "CAD",
       "year": 2024,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Alfa Romeo Giulia AWDin Vancouver",
@@ -275,7 +285,9 @@
       "year": 2026,
       "make": "Alfa",
       "model": "Romeo Giulia AWDin Vancouver",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Alfa Romeo Stelvio AWDin Vancouver",
@@ -291,7 +303,9 @@
       "year": 2026,
       "make": "Alfa",
       "model": "Romeo Stelvio AWDin Vancouver",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Alfa Romeo Stelvio AWDin Vancouver",
@@ -307,7 +321,9 @@
       "year": 2026,
       "make": "Alfa",
       "model": "Romeo Stelvio AWDin Vancouver",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Alfa Romeo Stelvio AWDin Vancouver",
@@ -323,7 +339,9 @@
       "year": 2026,
       "make": "Alfa",
       "model": "Romeo Stelvio AWDin Vancouver",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Alfa Romeo Stelvio AWDin Vancouver",
@@ -339,7 +357,9 @@
       "year": 2026,
       "make": "Alfa",
       "model": "Romeo Stelvio AWDin Vancouver",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Alfa Romeo Stelvio AWDin Vancouver",
@@ -355,7 +375,9 @@
       "year": 2026,
       "make": "Alfa",
       "model": "Romeo Stelvio AWDin Vancouver",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Alfa Romeo Tonale Veloce Awdin Vancouver",
@@ -371,7 +393,9 @@
       "year": 2026,
       "make": "Alfa",
       "model": "Romeo Tonale Veloce Awdin Vancouver",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Alfa Romeo Tonale Veloce Awdin Vancouver",
@@ -387,7 +411,9 @@
       "year": 2026,
       "make": "Alfa",
       "model": "Romeo Tonale Veloce Awdin Vancouver",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Alfa Romeo Tonale AWDin Vancouver",
@@ -403,7 +429,9 @@
       "year": 2026,
       "make": "Alfa",
       "model": "Romeo Tonale AWDin Vancouver",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     }
   ]
 }
