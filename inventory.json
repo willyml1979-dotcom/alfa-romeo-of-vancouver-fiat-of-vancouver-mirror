@@ -1,80 +1,56 @@
 {
   "dealership": "Alfa Romeo Of Vancouver Fiat Of Vancouver",
-  "generated_at": "2026-10-26T06:45:36",
-  "vehicle_count": 24,
+  "generated_at": "2026-11-17T05:51:04",
+  "vehicle_count": 25,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Alfa Romeo Giulia AWDin Vancouver",
-      "vin": "ZARFANAN3T7695574",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/4202bac94965.html",
-      "condition": "new",
-      "price": 67640.0,
+      "name": "Kia Niro 2019 for salein Vancouver",
+      "vin": "KNDCD3LD5K5350991",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/8adabffa297b.html",
+      "condition": "used",
+      "price": 20990.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Alfa Romeo Stelvio AWDin Vancouver",
-      "vin": "ZASPAKAN7T7E06216",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/c366fb3d49df.html",
-      "condition": "new",
-      "price": 69690.0,
+      "name": "Nissan Altima 2021 for salein Vancouver",
+      "vin": "1N4BL4CW8MN372188",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/6b517ac386d9.html",
+      "condition": "used",
+      "price": 18490.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Alfa Romeo Stelvio AWDin Vancouver",
-      "vin": "ZASPAKAN0T7E08258",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/ad455f4a65f9.html",
-      "condition": "new",
-      "price": 70440.0,
+      "name": "Volvo XC40 2021 for salein Vancouver",
+      "vin": "YV4162UM9M2492742",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/cbd4f1ec633d.html",
+      "condition": "used",
+      "price": 27990.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Alfa Romeo Stelvio AWDin Vancouver",
-      "vin": "ZASPAKAN0T7E07451",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/55ed57e63c50.html",
-      "condition": "new",
-      "price": 68690.0,
+      "name": "Porsche Cayenne 2022 for salein Vancouver",
+      "vin": "WP1AA2AY6NDA02058",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/2d47f4d48cb0.html",
+      "condition": "used",
+      "price": 53990.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Alfa Romeo Stelvio AWDin Vancouver",
-      "vin": "ZASPAKAN8T7E09223",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/a2c7d11e0b65.html",
-      "condition": "new",
-      "price": 70540.0,
+      "name": "Kia Sportage 2023 for salein Vancouver",
+      "vin": "KNDPUCAFXP7085583",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/652259e83ab8.html",
+      "condition": "used",
+      "price": 22990.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Alfa Romeo Stelvio AWDin Vancouver",
-      "vin": "ZASPAKAN8T7E09481",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/0209cd42bdb6.html",
-      "condition": "new",
-      "price": 70790.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Alfa Romeo Tonale Veloce Awdin Vancouver",
-      "vin": "ZASNATAN6T3111805",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/9b884d9f2f48.html",
-      "condition": "new",
-      "price": 57790.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Alfa Romeo Tonale Veloce Awdin Vancouver",
-      "vin": "ZASNATAN9T3109546",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/da31b3ad0efc.html",
-      "condition": "new",
-      "price": 56785.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Alfa Romeo Tonale AWDin Vancouver",
-      "vin": "ZASNATANXT3111712",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/190e91e2aed1.html",
-      "condition": "new",
-      "price": 61830.0,
+      "name": "Kia Sportage 2024 for salein Vancouver",
+      "vin": "KNDPVCDFXR7306921",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/643091f82bd2.html",
+      "condition": "used",
+      "price": 28490.0,
       "price_currency": "CAD"
     },
     {
@@ -89,20 +65,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Kia Niro ",
-      "vin": "KNDCD3LD5K5350991",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/8adabffa297b.html",
-      "year": 2019,
-      "make": "Kia",
-      "model": "Niro",
-      "condition": "used",
-      "price": 20990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Alfa Romeo Stelvio Ti Awdin Vancouver",
       "vin": "ZASPAKBN2L7C91023",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/62fa39d14b7e.html",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/1e281667deb1.html",
       "year": 2020,
       "make": "Alfa",
       "model": "Romeo Stelvio Ti Awdin Vancouver",
@@ -133,17 +98,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Alfa Romeo Stelvio Ti Awdin Vancouver",
-      "vin": "ZASPAKBN5M7D16689",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/d6688789038d.html",
-      "year": 2021,
-      "make": "Alfa",
-      "model": "Romeo Stelvio Ti Awdin Vancouver",
-      "condition": "used",
-      "price": 26990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Nissan Altima Sedan 2.5 Sr Cvtin Vancouver",
       "vin": "1N4BL4CW8MN372188",
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/e8dcfe1ccbe2.html",
@@ -155,14 +109,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Nissan Altima ",
-      "vin": "1N4BL4CW8MN372188",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/6b517ac386d9.html",
+      "name": "2021 Volvo XC40 T5 Awd R-Designin Vancouver",
+      "vin": "YV4162UM9M2492742",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/d43f48d1ac6f.html",
       "year": 2021,
-      "make": "Nissan",
-      "model": "Altima",
+      "make": "Volvo",
+      "model": "XC40",
       "condition": "used",
-      "price": 18490.0,
+      "price": 27990.0,
       "price_currency": "CAD"
     },
     {
@@ -188,31 +142,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Porsche Cayenne ",
-      "vin": "WP1AA2AY6NDA02058",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/2d47f4d48cb0.html",
-      "year": 2022,
-      "make": "Porsche",
-      "model": "Cayenne",
-      "condition": "used",
-      "price": 53990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Kia Sportage Lx Awdin Vancouver",
       "vin": "KNDPUCAFXP7085583",
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/93b862cbc1eb.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 22990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Sportage ",
-      "vin": "KNDPUCAFXP7085583",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/652259e83ab8.html",
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
@@ -232,14 +164,102 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Kia Sportage ",
-      "vin": "KNDPVCDFXR7306921",
-      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/643091f82bd2.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 28490.0,
+      "name": "New 2026 Alfa Romeo Giulia AWDin Vancouver",
+      "vin": "ZARFANAN3T7695574",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/4202bac94965.html",
+      "year": 2026,
+      "make": "Alfa",
+      "model": "Romeo Giulia AWDin Vancouver",
+      "condition": "new",
+      "price": 67640.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Alfa Romeo Stelvio AWDin Vancouver",
+      "vin": "ZASPAKAN7T7E06216",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/c366fb3d49df.html",
+      "year": 2026,
+      "make": "Alfa",
+      "model": "Romeo Stelvio AWDin Vancouver",
+      "condition": "new",
+      "price": 69690.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Alfa Romeo Stelvio AWDin Vancouver",
+      "vin": "ZASPAKAN0T7E08258",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/ad455f4a65f9.html",
+      "year": 2026,
+      "make": "Alfa",
+      "model": "Romeo Stelvio AWDin Vancouver",
+      "condition": "new",
+      "price": 70440.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Alfa Romeo Stelvio AWDin Vancouver",
+      "vin": "ZASPAKAN0T7E07451",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/55ed57e63c50.html",
+      "year": 2026,
+      "make": "Alfa",
+      "model": "Romeo Stelvio AWDin Vancouver",
+      "condition": "new",
+      "price": 68690.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Alfa Romeo Stelvio AWDin Vancouver",
+      "vin": "ZASPAKAN8T7E09223",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/a2c7d11e0b65.html",
+      "year": 2026,
+      "make": "Alfa",
+      "model": "Romeo Stelvio AWDin Vancouver",
+      "condition": "new",
+      "price": 70540.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Alfa Romeo Stelvio AWDin Vancouver",
+      "vin": "ZASPAKAN8T7E09481",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/0209cd42bdb6.html",
+      "year": 2026,
+      "make": "Alfa",
+      "model": "Romeo Stelvio AWDin Vancouver",
+      "condition": "new",
+      "price": 70790.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Alfa Romeo Tonale Veloce Awdin Vancouver",
+      "vin": "ZASNATAN6T3111805",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/9b884d9f2f48.html",
+      "year": 2026,
+      "make": "Alfa",
+      "model": "Romeo Tonale Veloce Awdin Vancouver",
+      "condition": "new",
+      "price": 57790.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Alfa Romeo Tonale Veloce Awdin Vancouver",
+      "vin": "ZASNATAN9T3109546",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/da31b3ad0efc.html",
+      "year": 2026,
+      "make": "Alfa",
+      "model": "Romeo Tonale Veloce Awdin Vancouver",
+      "condition": "new",
+      "price": 56785.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Alfa Romeo Tonale AWDin Vancouver",
+      "vin": "ZASNATANXT3111712",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/190e91e2aed1.html",
+      "year": 2026,
+      "make": "Alfa",
+      "model": "Romeo Tonale AWDin Vancouver",
+      "condition": "new",
+      "price": 61830.0,
       "price_currency": "CAD"
     }
   ]
