@@ -1,7 +1,7 @@
 {
   "dealership": "Alfa Romeo Of Vancouver Fiat Of Vancouver",
-  "generated_at": "2026-11-17T05:51:04",
-  "vehicle_count": 25,
+  "generated_at": "2026-11-17T06:03:11",
+  "vehicle_count": 30,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -175,6 +175,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Alfa Romeo Giulia AWDin Vancouver",
+      "vin": "ZARFANAN0T7696858",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/62f189cc3659.html",
+      "year": 2026,
+      "make": "Alfa",
+      "model": "Romeo Giulia AWDin Vancouver",
+      "condition": "new",
+      "price": 67990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Alfa Romeo Giulia AWDin Vancouver",
+      "vin": "ZARFANAN6T7696900",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/518efb12a97f.html",
+      "year": 2026,
+      "make": "Alfa",
+      "model": "Romeo Giulia AWDin Vancouver",
+      "condition": "new",
+      "price": 65890.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Alfa Romeo Stelvio AWDin Vancouver",
       "vin": "ZASPAKAN7T7E06216",
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/c366fb3d49df.html",
@@ -230,6 +252,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Alfa Romeo Stelvio AWDin Vancouver",
+      "vin": "ZASPAKAN6T7E10256",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/95fe49e78edf.html",
+      "year": 2026,
+      "make": "Alfa",
+      "model": "Romeo Stelvio AWDin Vancouver",
+      "condition": "new",
+      "price": 68690.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Alfa Romeo Tonale Veloce Awdin Vancouver",
       "vin": "ZASNATAN6T3111805",
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/9b884d9f2f48.html",
@@ -260,6 +293,28 @@
       "model": "Romeo Tonale AWDin Vancouver",
       "condition": "new",
       "price": 61830.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Alfa Romeo Tonale Veloce Awdin Vancouver",
+      "vin": "ZASNATAN7T3116284",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/f2733703d9a5.html",
+      "year": 2026,
+      "make": "Alfa",
+      "model": "Romeo Tonale Veloce Awdin Vancouver",
+      "condition": "new",
+      "price": 57785.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Alfa Romeo Tonale Veloce Awdin Vancouver",
+      "vin": "ZASNATAN0T3117048",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/new/d020b07d3985.html",
+      "year": 2026,
+      "make": "Alfa",
+      "model": "Romeo Tonale Veloce Awdin Vancouver",
+      "condition": "new",
+      "price": 60135.0,
       "price_currency": "CAD"
     }
   ]
