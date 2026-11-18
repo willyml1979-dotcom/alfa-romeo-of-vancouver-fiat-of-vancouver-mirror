@@ -1,10 +1,18 @@
 {
   "dealership": "Alfa Romeo Of Vancouver Fiat Of Vancouver",
-  "generated_at": "2026-11-17T23:18:13",
-  "vehicle_count": 30,
+  "generated_at": "2026-11-18T08:30:12",
+  "vehicle_count": 32,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Smart Fortwo 2013 for salein Vancouver",
+      "vin": "WMEEJ3BA5DK629226",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/4ae92ef4811b.html",
+      "condition": "used",
+      "price": 5999.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Kia Niro 2019 for salein Vancouver",
       "vin": "KNDCD3LD5K5350991",
@@ -51,6 +59,17 @@
       "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/643091f82bd2.html",
       "condition": "used",
       "price": 28490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2013 Smart Fortwo Passion Cpein Vancouver",
+      "vin": "WMEEJ3BA5DK629226",
+      "url": "https://willyml1979-dotcom.github.io/alfa-romeo-of-vancouver-fiat-of-vancouver-mirror/used/89b499bf60ed.html",
+      "year": 2013,
+      "make": "Smart",
+      "model": "Fortwo Passion Cpein Vancouver",
+      "condition": "used",
+      "price": 5999.0,
       "price_currency": "CAD"
     },
     {
